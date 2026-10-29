@@ -1,0 +1,6 @@
+{
+  "name": "AlgoTrade AI",
+  "description": "Production-grade AI compounding overlay & automated execution bot for Binary and Forex trading with Urdu voice agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
